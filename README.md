@@ -1,2 +1,2 @@
 # picture_test_app
-![Install from marketplace](photos/demo1jpeg)
+![Install from marketplace](photos/demo1.jpeg)
